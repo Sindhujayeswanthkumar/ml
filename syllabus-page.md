@@ -1,4 +1,4 @@
-
+#Syllabus & References
 
 ## Syllabus
 
@@ -23,6 +23,12 @@
 10. **Advanced Techniques 1** - Structured Probabilistic Models, Monte Carlo Methods
 
 11. **Advanced Techniques 2** - Autoencoders, Generative Adversarial Networks
+
+
+---
+
+## References
+
 
 
 ---
